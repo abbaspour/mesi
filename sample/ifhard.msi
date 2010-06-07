@@ -1,0 +1,6 @@
+var
+a,c,d:int;
+begin
+label:
+if a+3 then if c then d:=2 else begin goto label end
+end.

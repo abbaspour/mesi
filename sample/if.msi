@@ -1,0 +1,7 @@
+var
+	a,b,c,d:char;
+begin
+   if a<b then begin
+	c:=4 ; d:=2
+    end
+end.

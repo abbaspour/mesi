@@ -1,0 +1,6 @@
+var a:int;
+begin
+l:
+a:=a+2;
+end.
+

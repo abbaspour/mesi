@@ -1,0 +1,6 @@
+var
+a,b:int;
+x:char;
+begin
+a:=2*(3-5)/b-x+8;
+end.

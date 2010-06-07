@@ -1,0 +1,7 @@
+var a,d,b:int;
+begin
+if a<b then 
+d:=2
+else
+d:=1;
+end.

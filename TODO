@@ -1,0 +1,16 @@
+1. tstack structure should change. we dont need to add N temps in it in the
+beginning, but to let pop to add new temps when it reaches the bottom.
+
+2. Add RegiserManager class and AddresDesc to SymbolTable
+			 mov r0, a
+	a := 2   ===>    mov r0, 2   =====> mov r0, a
+
+3. Change gencode, draw_tree, print_tree. Use Polymorphism to have just one
+function and do aproperate task, based on classes worker function
+
+4. modify swap and push , pop to be fail tolerent
+
+5. use offset and [BP+offset] rather than variable name cuz its the right way
+
+	
+	

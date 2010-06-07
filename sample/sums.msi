@@ -1,0 +1,21 @@
+var
+	n, i, sum, j, c:int;
+begin
+	read(n);
+	i := 1;
+	sum := 0;
+	while (i < n) do
+	begin
+		sum := 0;
+		j := 1;
+		while(j < i) do
+		begin
+			sum := sum + j;
+			j := j+1;
+			c := 4;
+		end;
+		write(sum, i);
+		i := i+1;
+	end;
+	write(sum, i);
+end.

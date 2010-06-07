@@ -1,0 +1,6 @@
+var
+a,b:int;
+c:char;
+begin
+a:=b+2;
+end.

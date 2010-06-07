@@ -1,0 +1,5 @@
+var a,d : int;
+begin
+	if a then a:=1+2
+	else if(d) then print(d);
+end.

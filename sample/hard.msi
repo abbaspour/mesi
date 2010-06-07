@@ -1,0 +1,21 @@
+var
+a,b:int;
+c,d:char;
+e:int;
+f:int;
+h:char;
+g:char;
+
+begin
+a := 2;
+c := d * (3+6) - f;
+lab:
+	if a then
+		c := d * e 
+	else
+		if d then goto lab;
+lab2:
+if c then
+ 	d:=5
+	else goto lab2;
+ end.

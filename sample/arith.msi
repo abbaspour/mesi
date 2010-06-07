@@ -1,0 +1,8 @@
+var
+a,b,c:int;
+d,e:char;
+g:int;
+
+begin
+a:=(b+2)-(3+4);
+end.

@@ -1,0 +1,4 @@
+var a,b:int;
+begin
+f(a+b,3);
+end.
