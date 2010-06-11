@@ -88,6 +88,6 @@ This is generated 3 address assembly code:
 	_l4     :
 
 And this is graph:
-![Sample Output Graph](sample/tree.jpeg "Sample Output Graph")
+![Sample Output Graph](http://aminsblog.files.wordpress.com/2010/06/tree.jpeg?w=477&h=287 "Sample Output Graph")
 
 
